@@ -4,7 +4,7 @@ Este repositorio contiene el análisis realizado durante el Sprint 7 del caso Co
 
 Trabajaremos con información registrada hasta el año 2024, lo cual permitirá analizar el comportamiento del negocio dentro de ese periodo.
 
-Para ello trabajarás con tres datasets:
+Para ello se trabajó con tres datasets:
 
 plans.csv → información de los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra)
 users.csv → información de los clientes (edad, ciudad, fecha de registro, plan, churn)
